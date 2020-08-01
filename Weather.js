@@ -20,7 +20,9 @@ Weather.propTypes = {
         "Atmosphere",
         "Clear",
         "Clouds",
-        "Haze"
+        "Haze",
+        "Mist",
+        "Dust"
     ]).isRequired
 };
 
