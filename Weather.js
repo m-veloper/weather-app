@@ -110,8 +110,6 @@ const styles = StyleSheet.create({
         color: "white",
         fontSize: 24
     },
-
-    
     textContainer: {
         paddingHorizontal: 20,
         alignItems: "flex-start"
