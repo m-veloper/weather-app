@@ -41,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/Weather.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="392">
-              <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+              <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -698,12 +698,12 @@
       <workItem from="1596281517863" duration="199000" />
       <workItem from="1596376292432" duration="2414000" />
       <workItem from="1596466765633" duration="126000" />
-      <workItem from="1596552297136" duration="386000" />
+      <workItem from="1596552297136" duration="408000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13520000" />
+    <option name="totallyTimeSpent" value="13542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="0" />
@@ -1200,7 +1200,7 @@
     <entry file="file://$PROJECT_DIR$/Weather.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
-          <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
