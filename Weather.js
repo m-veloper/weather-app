@@ -105,12 +105,13 @@ const styles = StyleSheet.create({
         fontWeight: "300",
         marginBottom: 10
     },
-    
+
     subtitle: {
         fontWeight: "600",
         color: "white",
         fontSize: 24
     },
+    
     textContainer: {
         paddingHorizontal: 20,
         alignItems: "flex-start"
